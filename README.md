@@ -1,3 +1,5 @@
+Status: Production Prototype
+
 # AirGuardLegal ✈️⚖️
 **AI-Powered Aviation Crisis Management & Legal Compliance Platform**
 
@@ -21,6 +23,13 @@ The platform transforms aviation disruption data into actionable intelligence, e
 It was developed as an operational prototype to demonstrate how AI-driven automation can improve crisis response, regulatory compliance, and passenger compensation workflows.
 
 ---
+## Key Engineering Highlights
+
+• Built full-stack production-grade platform handling real-time flight telemetry  
+• Designed automated regulatory decision engine using DGCA & EC261 logic  
+• Implemented async backend architecture for scalable event processing  
+• Integrated real-time notification system using WhatsApp API and webhooks  
+• Deployed live SaaS prototype with frontend, backend, and database integration
 
 ## Problem Statement
 
