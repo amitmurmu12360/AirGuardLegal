@@ -1,6 +1,10 @@
 # AirGuardLegal ✈️⚖️
-
 **AI-Powered Aviation Crisis Management & Legal Compliance Platform**
+
+## Tech Stack
+
+FastAPI | Next.js | Python | Supabase | Aviationstack API | WhatsApp API
+
 
 🌐 Live Demo: https://www.airguardlegal.com/  
 💻 GitHub Repository: https://github.com/amitmurmu12360/AirGuardLegal  
@@ -98,7 +102,10 @@ Maintains structured audit records to support:
 
 ---
 
-## System Architecture
+## System Architecture Diagram
+
+![Architecture](architecture/architecture.png)
+
 
 High-Level Flow:
 
@@ -145,11 +152,13 @@ Passenger Notification System
 
 ### Crisis Monitoring Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](screenshots/dashboard.png)
+
+---
 
 ### Compensation Report Output
 
-(Add report screenshot here)
+![Report](screenshots/report.png)
 
 ---
 
