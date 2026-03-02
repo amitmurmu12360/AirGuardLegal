@@ -204,20 +204,23 @@ Planned improvements include:
 ---
 
 ## Repository Structure
+
+```
 AirGuardLegal/
 │
 ├── README.md
 │
 ├── architecture/
-│ └── architecture.png
+│   └── architecture.png
 │
 ├── screenshots/
-│ ├── dashboard.png
-│ └── report.png
+│   ├── dashboard.png
+│   └── report.png
 │
 ├── frontend/
 │
 └── backend/
+```
 
 
 ---
